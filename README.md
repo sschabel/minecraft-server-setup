@@ -30,8 +30,9 @@ I only modified it a bit; this script is (I'm sure you can tell if you look at t
     ```sh
     sudo systemctl start minecraft@survival
     ```
-    > [!NOTE]  
-    > If you ran the ``setup_server.sh`` script, you should already have the server started.      |
+> [!NOTE]  
+> If you ran the ``setup_server.sh`` script, you should already have the server started.
+
 - To **stop** the server, use the following command:
     ```sh
     sudo systemctl stop minecraft@survival
